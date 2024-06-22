@@ -44,7 +44,7 @@ li a:hover {
 
 body{
   padding: 6%;
-  display: justify;
+  display: block;
   font-size: large;
   background-color: aqua;
 }
@@ -65,12 +65,6 @@ body{
 .we a:hover{
   color: #ac24b8;
 }
-form {
-  margin-top: 20px;
-  padding: 14px 14px 14px 14px;
-  background-color: rgb(167, 191, 211);
-}
-
 footer{
 
   background-color:rgb(190, 241, 243);
