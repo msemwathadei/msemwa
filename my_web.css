@@ -71,30 +71,6 @@ form {
   background-color: rgb(167, 191, 211);
 }
 
-form label {
-  display:inline;
-  margin-bottom: 5px;
-}
-
-form input, form textarea, form select {
-  width: 95%;
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-
-form input[type="submit"] {
-  width:auto;
-  background-color: #333;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-form input[type="submit"]:hover {
-  background-color: #555;
-}
 footer{
 
   background-color:rgb(190, 241, 243);
